@@ -1,1 +1,1 @@
-# Hybrid-Motion-Model-For-Multiple-Object-Tracking
+# Hybrid Motion Model For Multiple Object Tracking
